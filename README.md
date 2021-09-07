@@ -1,1 +1,2 @@
-# java-is-ok
+# Other: Are you ok ?
+# Java: I am ok forever !
